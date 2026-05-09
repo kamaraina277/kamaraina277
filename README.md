@@ -6,7 +6,7 @@
 
 I'm a detail-oriented cybersecurity professional based in **Upper Marlboro, Maryland**, with hands-on experience in GRC (Governance, Risk & Compliance), NIST Risk Management Framework (RMF), and key compliance frameworks including SOC 2, PCI DSS, HIPAA, GDPR, and CCPA.
 
-I'm currently open to new opportunities in cybersecurity and GRC — feel free to connect!
+I'm currently open to new opportunities in cybersecurity and GRC, so feel free to connect!
 
 ---
 
@@ -32,14 +32,14 @@ I'm currently open to new opportunities in cybersecurity and GRC — feel free t
 
                 ## 📁 Portfolio Projects
 
-                ### 🏥 ClearBridge Health Management System (HMS) — Applied Security Portfolio
+                ### 🏥 ClearBridge Health Management System (HMS), Applied Security Portfolio
 
                 A fictional HHS federal sub-agency used as the target environment for all portfolio projects. Each repo demonstrates real-world GRC and cybersecurity skills applied to a simulated healthcare system.
 
                 | Project | Description |
                 |---|---|
                 | [CompTIA Security+ SY0-701](https://github.com/kamaraina277/clearbridge-hms-security-plus) | Security+ domain projects mapped to ClearBridge HMS |
-                | [FedRAMP & NIST RMF](https://github.com/kamaraina277/clearbridge-hms-fedramp-rmf) | FedRAMP Moderate ATO journey — NIST RMF Steps 0-6, AWS GovCloud |
+                | [FedRAMP & NIST RMF](https://github.com/kamaraina277/clearbridge-hms-fedramp-rmf) | FedRAMP Moderate ATO journey, NIST RMF Steps 0-6, AWS GovCloud |
                 | [ISO 27001/27005](https://github.com/kamaraina277/clearbridge-hms-iso27001) | ISO 27001:2022 and ISO 27005 compliance program |
 
                 ---
@@ -50,4 +50,4 @@ I'm currently open to new opportunities in cybersecurity and GRC — feel free t
 
                 ---
 
-                *Open to work — Let's connect!* 🚀
+                *Open to work. Let's connect!* 🚀
