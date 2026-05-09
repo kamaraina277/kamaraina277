@@ -1,53 +1,80 @@
-# Hi, I'm Ina Grace Kamara 👋
+# Ina Grace Kamara 👋
 
-### Cybersecurity Analyst | GRC & Compliance | CompTIA Security+ Certified
+**Cybersecurity Analyst | GRC & Compliance | CompTIA Security+ Certified**
 
----
-
-I'm a detail-oriented cybersecurity professional based in **Upper Marlboro, Maryland**, with hands-on experience in GRC (Governance, Risk & Compliance), NIST Risk Management Framework (RMF), and key compliance frameworks including SOC 2, PCI DSS, HIPAA, GDPR, and CCPA.
-
-I'm currently open to new opportunities in cybersecurity and GRC, so feel free to connect!
+📍 Upper Marlboro, Maryland &nbsp;|&nbsp; 📧 [Kamaraina266@gmail.com](mailto:Kamaraina266@gmail.com) &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/ina-kamara-1448b4407/)
 
 ---
 
-## 🛡️ About Me
+## 🎖️ Certifications & Credentials
 
-- 🏢 Currently working as a **Junior GRC Analyst** at Quarantyne Technologies
-- - 🎓 CompTIA Security+ (SY0-701) Certified
-  - - 📍 Based in Maryland, open to On-site, Hybrid, and Remote roles
-    - - 📫 Reach me at: **Kamaraina266@gmail.com**
-      - - 🔗 LinkedIn: [linkedin.com/in/ina-kamara-1448b4407](https://www.linkedin.com/in/ina-kamara-1448b4407/)
-       
-        - ---
+![CompTIA Security+](https://img.shields.io/badge/CompTIA_Security%2B-SY0--701-CC0000?style=for-the-badge&logo=comptia&logoColor=white)
+![NIST RMF](https://img.shields.io/badge/NIST_RMF-Steps_1--6-003087?style=for-the-badge&logo=nist&logoColor=white)
+![HIPAA](https://img.shields.io/badge/HIPAA-Compliance-00538C?style=for-the-badge&logoColor=white)
+![GDPR](https://img.shields.io/badge/GDPR-Compliance-003399?style=for-the-badge&logo=gdpr&logoColor=white)
+![FedRAMP](https://img.shields.io/badge/FedRAMP-Moderate-1E4D8C?style=for-the-badge&logoColor=white)
+![ISO 27001](https://img.shields.io/badge/ISO_27001:2022-ISMS-C8102E?style=for-the-badge&logoColor=white)
 
-        ## 🧰 Skills & Expertise
+---
 
-        - **Frameworks & Standards:** NIST RMF, NIST SP 800-53, FedRAMP, ISO 27001/27005, HIPAA, GDPR, CCPA, SOC 2, PCI DSS
-        - - **GRC Activities:** Risk assessments, System Security Plans (SSPs), POA&Ms, control mapping, policy alignment
-          - - **Security Tools:** SIEM tools, Nessus (vulnerability scanning), CMDB
-            - - **Compliance:** Identity & access reviews, patch management tracking, security awareness training
-              - - **Soft Skills:** 95%+ task completion rate, strong documentation, cross-functional collaboration
-               
-                - ---
+## 👩‍💼 About Me
 
-                ## 📁 Portfolio Projects
+Detail-oriented and motivated cybersecurity professional with hands-on experience in GRC (Governance, Risk & Compliance) and IT security operations. Currently working as a **Junior GRC Analyst at Quarantyne Technologies**, supporting NIST SP 800-53 control mapping, SSP documentation, and HIPAA, GDPR, and CCPA compliance reviews.
 
-                ### 🏥 ClearBridge Health Management System (HMS), Applied Security Portfolio
+Previously completed an IT Security internship at Akidio Inc., gaining practical experience with SIEM tools, Nessus vulnerability scanning, user access reviews, and patch management.
 
-                A fictional HHS federal sub-agency used as the target environment for all portfolio projects. Each repo demonstrates real-world GRC and cybersecurity skills applied to a simulated healthcare system.
+Holds **CompTIA Security+ (SY0-701)** and trained in NIST RMF Steps 1 through 6. Committed to protecting organizational assets, ensuring regulatory compliance, and growing into a well-rounded cybersecurity professional.
 
-                | Project | Description |
-                |---|---|
-                | [CompTIA Security+ SY0-701](https://github.com/kamaraina277/clearbridge-hms-security-plus) | Security+ domain projects mapped to ClearBridge HMS |
-                | [FedRAMP & NIST RMF](https://github.com/kamaraina277/clearbridge-hms-fedramp-rmf) | FedRAMP Moderate ATO journey, NIST RMF Steps 0-6, AWS GovCloud |
-                | [ISO 27001/27005](https://github.com/kamaraina277/clearbridge-hms-iso27001) | ISO 27001:2022 and ISO 27005 compliance program |
+🟢 **Open to work** — Cybersecurity Analyst | GRC Analyst | Compliance roles (On-site, Hybrid, Remote)
 
-                ---
+---
 
-                ## 📊 GitHub Stats
+## 🛠️ Skills & Tools
 
-                ![Ina's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamaraina277&show_icons=true&theme=dark)
+**Frameworks & Standards**
 
-                ---
+![NIST SP 800-53](https://img.shields.io/badge/NIST_SP_800--53-Controls-003087?style=flat-square&logoColor=white)
+![SOC 2](https://img.shields.io/badge/SOC_2-Compliance-0066CC?style=flat-square&logoColor=white)
+![PCI DSS](https://img.shields.io/badge/PCI_DSS-Compliance-1F4E79?style=flat-square&logoColor=white)
+![CCPA](https://img.shields.io/badge/CCPA-Compliance-6B2737?style=flat-square&logoColor=white)
+![ISO 27005](https://img.shields.io/badge/ISO_27005-Risk_Mgmt-C8102E?style=flat-square&logoColor=white)
 
-                *Open to work. Let's connect!* 🚀
+**Security Tools**
+
+![SIEM](https://img.shields.io/badge/SIEM-Security_Monitoring-E95420?style=flat-square&logoColor=white)
+![Nessus](https://img.shields.io/badge/Nessus-Vulnerability_Scanning-00B388?style=flat-square&logoColor=white)
+![CMDB](https://img.shields.io/badge/CMDB-Asset_Management-5C2D91?style=flat-square&logoColor=white)
+
+**GRC Activities**
+
+![SSP](https://img.shields.io/badge/SSP_Documentation-POA%26M-003087?style=flat-square&logoColor=white)
+![Risk Assessment](https://img.shields.io/badge/Risk_Assessment-Vulnerability_Tracking-CC0000?style=flat-square&logoColor=white)
+![Security Awareness](https://img.shields.io/badge/Security_Awareness-Training-228B22?style=flat-square&logoColor=white)
+
+---
+
+## 📁 Portfolio Projects
+
+### 🏥 ClearBridge Health Management System (HMS), Applied Security Portfolio
+
+A fictional HHS federal sub-agency used as the environment for all portfolio projects. Each repo demonstrates real-world GRC and cybersecurity skills applied to a simulated healthcare platform.
+
+| Project | Description | Badge |
+|---|---|---|
+| [CompTIA Security+ SY0-701](https://github.com/kamaraina277/clearbridge-hms-security-plus) | Security+ domain projects mapped to ClearBridge HMS | ![Security+](https://img.shields.io/badge/Security%2B-SY0--701-CC0000?style=flat-square&logoColor=white) |
+| [FedRAMP & NIST RMF](https://github.com/kamaraina277/clearbridge-hms-fedramp-rmf) | FedRAMP Moderate ATO journey, NIST RMF Steps 0-6, AWS GovCloud | ![FedRAMP](https://img.shields.io/badge/FedRAMP-Moderate-1E4D8C?style=flat-square&logoColor=white) |
+| [ISO 27001/27005](https://github.com/kamaraina277/clearbridge-hms-iso27001) | ISO 27001:2022 and ISO 27005 compliance program | ![ISO](https://img.shields.io/badge/ISO_27001-2022-C8102E?style=flat-square&logoColor=white) |
+
+---
+
+## 📊 GitHub Activity
+
+![Ina's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamaraina277&show_icons=true&theme=radical&hide_border=true&title_color=CC0000&icon_color=CC0000&text_color=ffffff&bg_color=0d1117)
+
+---
+
+## 📬 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ina_Kamara-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ina-kamara-1448b4407/)
+[![Email](https://img.shields.io/badge/Email-Kamaraina266%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Kamaraina266@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-kamaraina277-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kamaraina277)
