@@ -3,7 +3,7 @@
 **Cybersecurity Analyst | GRC & Compliance | CompTIA Security+ Certified**
 
 📍 Upper Marlboro, Maryland &nbsp;|&nbsp; 📧 [Kamaraina266@gmail.com](mailto:Kamaraina266@gmail.com) &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/ina-kamara-1448b4407/)
-
+h
 ---
 
 ## 🎖️ Certifications & Credentials
@@ -25,7 +25,7 @@ Previously completed an IT Security internship at Akidio Inc., gaining practical
 
 Holds **CompTIA Security+ (SY0-701)** and trained in NIST RMF Steps 1 through 6. Committed to protecting organizational assets, ensuring regulatory compliance, and growing into a well-rounded cybersecurity professional.
 
-🟢 **Open to work** — Cybersecurity Analyst | GRC Analyst | Compliance roles (On-site, Hybrid, Remote)
+🟢 **Open to work**: Cybersecurity Analyst | GRC Analyst | Compliance roles (On-site, Hybrid, Remote)
 
 ---
 
