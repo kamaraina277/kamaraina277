@@ -1,9 +1,8 @@
-# Ina Grace Kamara 👋
+# Hi I'm Ina Grace Kamara 👋
 
 **Cybersecurity Analyst | GRC & Compliance | CompTIA Security+ Certified**
 
 📍 Upper Marlboro, Maryland &nbsp;|&nbsp; 📧 [Kamaraina266@gmail.com](mailto:Kamaraina266@gmail.com) &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/ina-kamara-1448b4407/)
-h
 ---
 
 ## 🎖️ Certifications & Credentials
