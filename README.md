@@ -68,5 +68,4 @@ A fictional HHS federal sub-agency used as the environment for all portfolio pro
 
 ## Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ina_Kamara)] 
-[![Email](https://img.shields.io/badge/Email-Kamaraina266%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+[![Email](https://img.shields.io/badge/Email-Kamaraina266%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Kamaraina266@gmail.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ina%20Grace%20Kamara-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ina-kamara-1448b4407/)
