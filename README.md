@@ -2,10 +2,10 @@
 
 **Cybersecurity Analyst | GRC & Compliance | CompTIA Security+ Certified**
 
-📍 Upper Marlboro, Maryland &nbsp;|&nbsp; 📧 [Kamaraina266@gmail.com](mailto:Kamaraina266@gmail.com) &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/ina-kamara-1448b4407/)
+Upper Marlboro, Maryland &nbsp;|&nbsp; [Kamaraina266@gmail.com](mailto:Kamaraina266@gmail.com) &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/ina-kamara-1448b4407/)
 ---
 
-## 🎖️ Certifications & Credentials
+## Certifications & Credentials
 
 ![CompTIA Security+](https://img.shields.io/badge/CompTIA_Security%2B-SY0--701-CC0000?style=for-the-badge&logo=comptia&logoColor=white)
 ![NIST RMF](https://img.shields.io/badge/NIST_RMF-Steps_1--6-003087?style=for-the-badge&logo=nist&logoColor=white)
@@ -16,7 +16,7 @@
 
 ---
 
-## 👩‍💼 About Me
+## About Me
 
 Detail-oriented and motivated cybersecurity professional with hands-on experience in GRC (Governance, Risk & Compliance) and IT security operations. Currently working as a **Junior GRC Analyst at Quarantyne Technologies**, supporting NIST SP 800-53 control mapping, SSP documentation, and HIPAA, GDPR, and CCPA compliance reviews.
 
@@ -28,7 +28,7 @@ Holds **CompTIA Security+ (SY0-701)** and trained in NIST RMF Steps 1 through 6.
 
 ---
 
-## 🛠️ Skills & Tools
+## Skills & Tools
 
 **Frameworks & Standards**
 
@@ -52,9 +52,9 @@ Holds **CompTIA Security+ (SY0-701)** and trained in NIST RMF Steps 1 through 6.
 
 ---
 
-## 📁 Portfolio Projects
+## Portfolio Projects
 
-### 🏥 ClearBridge Health Management System (HMS), Applied Security Portfolio
+### ClearBridge Health Management System (HMS), Applied Security Portfolio
 
 A fictional HHS federal sub-agency used as the environment for all portfolio projects. Each repo demonstrates real-world GRC and cybersecurity skills applied to a simulated healthcare platform.
 
@@ -66,13 +66,13 @@ A fictional HHS federal sub-agency used as the environment for all portfolio pro
 
 ---
 
-## 📊 GitHub Activity
+## GitHub Activity
 
 ![Ina's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamaraina277&show_icons=true&theme=radical&hide_border=true&title_color=CC0000&icon_color=CC0000&text_color=ffffff&bg_color=0d1117)
 
 ---
 
-## 📬 Let's Connect
+## Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ina_Kamara-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ina-kamara-1448b4407/)
 [![Email](https://img.shields.io/badge/Email-Kamaraina266%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Kamaraina266@gmail.com)
