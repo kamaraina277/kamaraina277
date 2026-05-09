@@ -22,7 +22,7 @@ Detail-oriented and motivated cybersecurity professional with hands-on experienc
 
 Previously completed an IT Security internship at Akidio Inc., gaining practical experience with SIEM tools, Nessus vulnerability scanning, user access reviews, and patch management.
 
-Holds **CompTIA Security+ (SY0-701)** and trained in NIST RMF Steps 1 through 6. Committed to protecting organizational assets, ensuring regulatory compliance, and growing into a well-rounded cybersecurity professional.
+Holds **CompTIA Security+ (SY0-701)** and trained in NIST RMF Steps 0 through 6. Committed to protecting organizational assets, ensuring regulatory compliance, and growing into a well-rounded cybersecurity professional.
 
 🟢 **Open to work**: Cybersecurity Analyst | GRC Analyst | Compliance roles (On-site, Hybrid, Remote)
 
