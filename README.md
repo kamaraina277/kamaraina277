@@ -8,7 +8,7 @@ Upper Marlboro, Maryland &nbsp;|&nbsp; [Kamaraina266@gmail.com](mailto:Kamaraina
 ## Certifications & Credentials
 
 ![CompTIA Security+](https://img.shields.io/badge/CompTIA_Security%2B-SY0--701-CC0000?style=for-the-badge&logo=comptia&logoColor=white)
-![NIST RMF](https://img.shields.io/badge/NIST_RMF-Steps_1--6-003087?style=for-the-badge&logo=nist&logoColor=white)
+![NIST RMF](https://img.shields.io/badge/NIST_RMF-Steps_0--6-003087?style=for-the-badge&logo=nist&logoColor=white)
 ![HIPAA](https://img.shields.io/badge/HIPAA-Compliance-00538C?style=for-the-badge&logoColor=white)
 ![GDPR](https://img.shields.io/badge/GDPR-Compliance-003399?style=for-the-badge&logo=gdpr&logoColor=white)
 ![FedRAMP](https://img.shields.io/badge/FedRAMP-Moderate-1E4D8C?style=for-the-badge&logoColor=white)
