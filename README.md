@@ -66,14 +66,7 @@ A fictional HHS federal sub-agency used as the environment for all portfolio pro
 
 ---
 
-## GitHub Activity
-
-![Ina's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamaraina277&show_icons=true&theme=radical&hide_border=true&title_color=CC0000&icon_color=CC0000&text_color=ffffff&bg_color=0d1117)
-
----
-
 ## Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ina_Kamara-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ina-kamara-1448b4407/)
-[![Email](https://img.shields.io/badge/Email-Kamaraina266%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Kamaraina266@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-kamaraina277-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kamaraina277)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ina_Kamara)] 
+[![Email](https://img.shields.io/badge/Email-Kamaraina266%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
